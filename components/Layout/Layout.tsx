@@ -14,6 +14,7 @@ const Layout = ({ children }: any) => {
           content="Leonardo, Pottmayer, Leonardo Pottmayer, pottmayer.dev"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="author" content="Leonardo Pottmayer" />
 
         <title>pottmayer.dev</title>
       </Head>
